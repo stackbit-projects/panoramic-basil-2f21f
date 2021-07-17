@@ -1,7 +1,7 @@
 ---
 layout: page
 subtitle: Why you'd want to go on a date with me
-title: نبذ
+title: 'نبذة '
 ---
 
 My name is Inigo Montoya. I have the following qualities:
